@@ -1,0 +1,9 @@
+---
+- name: Propiedad Alumno
+  file:
+    path: /UTN/Alumno
+    owner: alumno
+- name: Propiedad Profesor
+  file:
+    path: /UTN/Profesor
+    owner: profesor

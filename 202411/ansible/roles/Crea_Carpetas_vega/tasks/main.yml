@@ -1,0 +1,8 @@
+---
+- name: Crear carpetas
+  file:
+    path: "{{ item }}"
+    state: directory
+  loop:
+    - /UTN/Alumno
+    - /UTN/Profesor

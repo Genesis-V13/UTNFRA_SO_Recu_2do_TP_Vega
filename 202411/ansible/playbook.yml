@@ -1,0 +1,9 @@
+---
+- name: parcial
+  hosts: localhost
+  become: yes
+  roles:
+    - 2PRecuperatorio
+    - Crea_Carpetas_vega
+    - Cambia_Propiedad_vega
+    - Sudoers_vega

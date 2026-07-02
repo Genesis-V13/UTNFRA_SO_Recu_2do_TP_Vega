@@ -1,0 +1,6 @@
+---
+- name: Configurar sudoers
+  copy:
+    content: "%GProfesores ALL=(ALL) NOPASSWD: ALL"
+    dest: /etc/sudoers.d/gprofesores
+    validate: /usr/sbin/visudo -cf %s
