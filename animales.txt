@@ -1,0 +1,5 @@
+20241119 - Animal: Pato - Habitat: TO
+20241119 - Animal: Perro - Habitat: TM
+20241119 - Animal: Gallina - Habitat: TO
+20241119 - Animal: Ballena - Habitat: AG
+20241119 - Animal: Gato - Habitat: TM
