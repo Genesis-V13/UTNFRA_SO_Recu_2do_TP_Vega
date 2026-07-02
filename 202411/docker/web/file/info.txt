@@ -1,0 +1,3 @@
+Nombre de tu usuario: gvega
+ID de tu usuario: 1001
+Hash pass de tu usuario: $y$j9T$pu3X1UsBKe24Q8rJWTJ031$E7h6YG4/rooYPv0U8AvTZ869PWtk214K0bDCb6Ghp8C

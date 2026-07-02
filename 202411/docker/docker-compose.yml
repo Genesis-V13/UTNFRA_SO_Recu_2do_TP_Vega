@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    image: genesisvegaaz/web2-vega:latest
+    ports:
+      - "81:80"
+    volumes:
+      - ./web/file:/usr/share/nginx/html/file/
